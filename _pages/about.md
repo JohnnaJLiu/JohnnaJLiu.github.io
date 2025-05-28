@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am Johnna Jiangnan Liu. Feel free to call me Johnna or Jiangnan (江南）. I am currently a master's student at Cornell Tech, fortunate to be advised by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). I also get lucky to start my research journey at University of California San Diego under the advise of [Zhiting Hu](https://zhiting.ucsd.edu/)
+Hello! I am Johnna Liu. Feel free to call me Johnna or Jiangnan (江南). I am currently a master's student at Cornell Tech, fortunate to be advised by [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/). I get lucky to start my research journey at the University of California San Diego, advised by [Zhiting Hu](https://zhiting.ucsd.edu/).
 
-Before that I received my bachlor's degree from Fudan University. I also spent an amazing year at London Business School before I joined Goldman Sachs TMT investment banking as an analyst.
+Before that, I received my bachelor's degree from Fudan University. I also spent an amazing year at [London Business School](https://www.london.edu/about/london-business-school/rankings-and-accreditation) before joining Goldman Sachs TMT (Tech, Media and Telecommunication) as an investment banking analyst.
+
+I am interested in generative models, especially discrete diffusion for language tasks. 
 
 
 A data-driven personal website
